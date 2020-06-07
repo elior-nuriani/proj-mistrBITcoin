@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/proj-misterBITcoin/static/css/main.a2159cef.chunk.css",
-    "main.js": "/proj-misterBITcoin/static/js/main.4f3f0fa5.chunk.js",
-    "main.js.map": "/proj-misterBITcoin/static/js/main.4f3f0fa5.chunk.js.map",
-    "runtime-main.js": "/proj-misterBITcoin/static/js/runtime-main.889b61da.js",
-    "runtime-main.js.map": "/proj-misterBITcoin/static/js/runtime-main.889b61da.js.map",
-    "static/js/2.8433c078.chunk.js": "/proj-misterBITcoin/static/js/2.8433c078.chunk.js",
-    "static/js/2.8433c078.chunk.js.map": "/proj-misterBITcoin/static/js/2.8433c078.chunk.js.map",
-    "index.html": "/proj-misterBITcoin/index.html",
-    "precache-manifest.209c84c8aee8d32a6eaeee1bf60963ea.js": "/proj-misterBITcoin/precache-manifest.209c84c8aee8d32a6eaeee1bf60963ea.js",
-    "service-worker.js": "/proj-misterBITcoin/service-worker.js",
-    "static/css/main.a2159cef.chunk.css.map": "/proj-misterBITcoin/static/css/main.a2159cef.chunk.css.map",
-    "static/js/2.8433c078.chunk.js.LICENSE.txt": "/proj-misterBITcoin/static/js/2.8433c078.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "/proj-misterBITcoin/static/media/SourceSansPro-Regular.c1678b46.ttf",
-    "static/media/logo.png": "/proj-misterBITcoin/static/media/logo.3cf05216.png"
+    "main.css": "./static/css/main.629e4e35.chunk.css",
+    "main.js": "./static/js/main.32755265.chunk.js",
+    "main.js.map": "./static/js/main.32755265.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.62999a71.js",
+    "runtime-main.js.map": "./static/js/runtime-main.62999a71.js.map",
+    "static/js/2.8433c078.chunk.js": "./static/js/2.8433c078.chunk.js",
+    "static/js/2.8433c078.chunk.js.map": "./static/js/2.8433c078.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.bffb1671bc6c05263b3cd2c07a54706f.js": "./precache-manifest.bffb1671bc6c05263b3cd2c07a54706f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.629e4e35.chunk.css.map": "./static/css/main.629e4e35.chunk.css.map",
+    "static/js/2.8433c078.chunk.js.LICENSE.txt": "./static/js/2.8433c078.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "./static/media/SourceSansPro-Regular.c1678b46.ttf",
+    "static/media/logo.png": "./static/media/logo.3cf05216.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.889b61da.js",
+    "static/js/runtime-main.62999a71.js",
     "static/js/2.8433c078.chunk.js",
-    "static/css/main.a2159cef.chunk.css",
-    "static/js/main.4f3f0fa5.chunk.js"
+    "static/css/main.629e4e35.chunk.css",
+    "static/js/main.32755265.chunk.js"
   ]
 }
