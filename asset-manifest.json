@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/proj-misterBITcoin/static/css/main.a2159cef.chunk.css",
-    "main.js": "/proj-misterBITcoin/static/js/main.a021e325.chunk.js",
-    "main.js.map": "/proj-misterBITcoin/static/js/main.a021e325.chunk.js.map",
+    "main.js": "/proj-misterBITcoin/static/js/main.4f3f0fa5.chunk.js",
+    "main.js.map": "/proj-misterBITcoin/static/js/main.4f3f0fa5.chunk.js.map",
     "runtime-main.js": "/proj-misterBITcoin/static/js/runtime-main.889b61da.js",
     "runtime-main.js.map": "/proj-misterBITcoin/static/js/runtime-main.889b61da.js.map",
     "static/js/2.8433c078.chunk.js": "/proj-misterBITcoin/static/js/2.8433c078.chunk.js",
     "static/js/2.8433c078.chunk.js.map": "/proj-misterBITcoin/static/js/2.8433c078.chunk.js.map",
     "index.html": "/proj-misterBITcoin/index.html",
-    "precache-manifest.857657a3fe503f0282002d36a2f2fc88.js": "/proj-misterBITcoin/precache-manifest.857657a3fe503f0282002d36a2f2fc88.js",
+    "precache-manifest.209c84c8aee8d32a6eaeee1bf60963ea.js": "/proj-misterBITcoin/precache-manifest.209c84c8aee8d32a6eaeee1bf60963ea.js",
     "service-worker.js": "/proj-misterBITcoin/service-worker.js",
     "static/css/main.a2159cef.chunk.css.map": "/proj-misterBITcoin/static/css/main.a2159cef.chunk.css.map",
     "static/js/2.8433c078.chunk.js.LICENSE.txt": "/proj-misterBITcoin/static/js/2.8433c078.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.889b61da.js",
     "static/js/2.8433c078.chunk.js",
     "static/css/main.a2159cef.chunk.css",
-    "static/js/main.a021e325.chunk.js"
+    "static/js/main.4f3f0fa5.chunk.js"
   ]
 }
